@@ -35,4 +35,4 @@ Soy ingeniero electrónico con pasión por la automatización y la eficiencia. C
 ---
 
 ## Contáctame  
-- 🔗 [LinkedIn](https://linkedin.com/in/martin-emiliano
+- 🔗 [LinkedIn][(https://linkedin.com/in/martin-emiliano](https://www.linkedin.com/in/martin-mancilla-171155138/)
