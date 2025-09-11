@@ -1,6 +1,5 @@
 ## Safe Multi-Sig Wallet
 
-- Dirección: `0xTuSafeAddressAquí`
 - Owners:
   - 0xcF64766A2BAabeCd02714e900d67DD8ca3823f3B
   - 0x7B4CC3F5F800AfCa783e3546ae9183630341433C
